@@ -99,8 +99,9 @@ backup:
     type: git
     theme: next
     repository:
-       coding: https://git.coding.net/newbiebt/newbiebt.git,master
        github: git@github.com:xbotao/hexo-blog-back.git
+       coding: https://git.coding.net/newbiebt/newbiebt.git,master
+       
        
 # git remote add origin git@github.com:xbotao/hexo-blog-back.git
 # git push -u origin master
