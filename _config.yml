@@ -99,9 +99,9 @@ backup:
     type: git
     theme: next
     repository:
-       github: git@github.com:xbotao/hexo-blog-back.git
+       github: git@github.com:xbotao/xbotao.github.io.git,master
        coding: https://git.coding.net/newbiebt/newbiebt.git,master
        
-       
-# git remote add origin git@github.com:xbotao/hexo-blog-back.git
-# git push -u origin master
+# github为仓库名称，第一次使用需要手动添加       
+# git remote add github git@github.com:xbotao/hexo-blog-back.git
+# git push -u github master
