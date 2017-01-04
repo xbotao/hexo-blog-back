@@ -83,7 +83,7 @@ theme: next
 deploy:
   type: git
   repo:
-    github: git@github.com:xbotao/xbotao.github.io.git,master
+    github: git@github.com:xbotao/xbotao.github.io.git,Pages
     oschina: https://git.oschina.net/newbie-BT/newbie-bt.git,master
     coding: https://git.coding.net/newbiebt/newbiebt.git,coding-pages
 
@@ -99,5 +99,5 @@ backup:
     type: git
     theme: next
     repository:
-       oschina: https://git.oschina.net/newbie-BT/newbie-bt.git,blog_back
+       github: git@github.com:xbotao/xbotao.github.io.git,master
        coding: https://git.coding.net/newbiebt/newbiebt.git,master
