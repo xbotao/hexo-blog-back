@@ -98,4 +98,5 @@ backup:
     type: git
     theme: next
     repository:
+       oschina: https://git.oschina.net/newbie-BT/newbie-bt.git,blog_back
        coding: https://git.coding.net/newbiebt/newbiebt.git,master
