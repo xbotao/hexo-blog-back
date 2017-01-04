@@ -99,5 +99,5 @@ backup:
     type: git
     theme: next
     repository:
-       github: git@github.com:xbotao/hexo-blog-back.git,master
+       github: https://github.com/xbotao/hexo-blog-back.git,master
        coding: https://git.coding.net/newbiebt/newbiebt.git,master
