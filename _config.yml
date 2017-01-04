@@ -83,7 +83,7 @@ theme: next
 deploy:
   type: git
   repo:
-    oschina: https://git.oschina.net/newbie-BT/newbie-bt.git
+    oschina: https://git.oschina.net/newbie-BT/newbie-bt.git,master
     coding: https://git.coding.net/newbiebt/newbiebt.git,coding-pages
 
 # hexo-admin    
