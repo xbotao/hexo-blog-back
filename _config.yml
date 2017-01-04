@@ -101,3 +101,6 @@ backup:
     repository:
        coding: https://git.coding.net/newbiebt/newbiebt.git,master
        github: git@github.com:xbotao/hexo-blog-back.git
+       
+# git remote add origin git@github.com:xbotao/hexo-blog-back.git
+# git push -u origin master
