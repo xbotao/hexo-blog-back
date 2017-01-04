@@ -83,6 +83,7 @@ theme: next
 deploy:
   type: git
   repo:
+    github: git@github.com:xbotao/xbotao.github.io.git,master
     oschina: https://git.oschina.net/newbie-BT/newbie-bt.git,master
     coding: https://git.coding.net/newbiebt/newbiebt.git,coding-pages
 
